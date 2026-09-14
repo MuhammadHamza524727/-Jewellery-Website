@@ -54,7 +54,7 @@ public/
 
 ## 📺 Watch the Build
 
-**This project was built step-by-step on the Hamza Builds YouTube channel — if it helped you, don't forget to LIKE 👍 and SUBSCRIBE 🔔 for more builds like this!**
+**This project was built step-by-step on the [Hamza Builds](https://www.youtube.com/@hamzabuilds) YouTube channel — if it helped you, don't forget to LIKE 👍 and SUBSCRIBE 🔔 for more builds like this!**
 
 ## Customizing
 
