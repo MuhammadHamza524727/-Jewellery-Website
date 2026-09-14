@@ -52,6 +52,10 @@ public/
 └── images/           # product photography
 ```
 
+## 📺 Watch the Build
+
+**This project was built step-by-step on the Hamza Builds YouTube channel — if it helped you, don't forget to LIKE 👍 and SUBSCRIBE 🔔 for more builds like this!**
+
 ## Customizing
 
 - **Products:** edit `src/lib/products.js` — data is deliberately kept separate for easy replacement.

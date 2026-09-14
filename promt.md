@@ -1,0 +1,1 @@
+Read constitution.md first, then build the complete frontend according to it. Inspect the existing project before making changes and keep the implementation simple, premium, responsive and production-quality. 
